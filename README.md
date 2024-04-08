@@ -3,7 +3,7 @@
 
 ## Introduction
 
-This project, developed by Siddharth Vijay (SV2637), is designed for an assignment focused on leveraging cloud computing to perform machine learning tasks. The goal is to create different Virtual Machines (VMs) on Google Cloud, utilize a specific script from a cloned repository, generate a set of files, and finally analyze these files using NVIDIA INSIGHT and NVIDIA SYSTEMS tools.
+The goal of this project is to create different Virtual Machines (VMs) on Google Cloud, training ResNet, generate a set of files, and finally analyze these files using NVIDIA INSIGHT and NVIDIA SYSTEMS tools.
 
 ## Prerequisites
 
@@ -44,26 +44,9 @@ Ensure that your VM is equipped with an NVIDIA GPU and that you have installed t
 
 With NVIDIA INSIGHT and NVIDIA SYSTEMS installed, you can now proceed to analyze the generated files. Follow the specific instructions provided for the assignment to conduct your analysis.
 
-## Results and Conclusion
-
-Document the findings and insights gained from the analysis in this section. Include any significant patterns, anomalies, or results that were uncovered during the process.
-
-## Troubleshooting
-
-Encountered issues? Here are some common troubleshooting tips:
-
-- Ensure that all prerequisites are correctly installed and configured.
-- Verify that your Google Cloud VM instances have the correct specifications and permissions.
-- Double-check the installation steps for NVIDIA INSIGHT and NVIDIA SYSTEMS tools.
-- For more specific problems, consult the respective documentation or community forums.
-
 ## Additional Resources
 
 - [Google Cloud VM Instances Documentation](https://cloud.google.com/compute/docs/instances)
 - [PyTorch Examples GitHub Repository](https://github.com/pytorch/examples)
 - [NVIDIA INSIGHT Documentation](https://developer.nvidia.com/insight)
 - [NVIDIA SYSTEMS Documentation](https://developer.nvidia.com/systems)
-
-## License
-
-Specify the license under which this project is released, if applicable.
